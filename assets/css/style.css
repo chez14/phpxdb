@@ -1,0 +1,16 @@
+.emo-box {
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+}
+.emo-box figure {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+img.emo {
+    margin: 0 5px -3px 5px;
+    display: inline-block;
+    height: 17px;
+    width: auto;
+}
